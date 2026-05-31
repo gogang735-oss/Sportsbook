@@ -1034,58 +1034,6 @@
     "status": "draft"
   },
   {
-    "name": "0xbet",
-    "slug": "0xbet",
-    "logo": "🟣",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": [
-      "Crypto Payments",
-      "In-Play Betting",
-      "Mobile App"
-    ],
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": "Curacao eGaming (Casbit Group N.V.)",
-    "url": "https://0x.bet",
-    "warning": "Crypto-focused. Limited regulatory oversight.",
-    "sources": [
-      "https://0x.bet",
-      "https://www.ccn.com/crypto-casinos/reviews/0x-bet/"
-    ],
-    "display_order": 31,
-    "status": "draft"
-  },
-  {
-    "name": "18bet",
-    "slug": "18bet",
-    "logo": "🔵",
-    "rating": null,
-    "bonus": null,
-    "sports": [
-      "football",
-      "cricket",
-      "basketball",
-      "tennis",
-      "horse racing"
-    ],
-    "features": [
-      "In-Play Betting",
-      "Mobile App"
-    ],
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": "https://18bet.com",
-    "warning": "",
-    "sources": [
-      "https://18bet.com"
-    ],
-    "display_order": 32,
-    "status": "draft"
-  },
-  {
     "name": "1bet",
     "slug": "1bet",
     "logo": "🟢",
@@ -1106,7 +1054,7 @@
       "https://1bet.com",
       "https://www.transfermarkt.com/betting/bonus/1bet/"
     ],
-    "display_order": 33,
+    "display_order": 31,
     "status": "draft"
   },
   {
@@ -1138,24 +1086,7 @@
       "https://20bet.com",
       "https://easybet.com/sportsbook/20bet-sportsbook-review/"
     ],
-    "display_order": 34,
-    "status": "draft"
-  },
-  {
-    "name": "2UP",
-    "slug": "2up",
-    "logo": "🟠",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 35,
+    "display_order": 32,
     "status": "draft"
   },
   {
@@ -1189,7 +1120,7 @@
       "https://www.888sport.com",
       "https://www.888sport.com/security-and-privacy/licensing/"
     ],
-    "display_order": 36,
+    "display_order": 33,
     "status": "draft"
   },
   {
@@ -1222,7 +1153,7 @@
       "https://888starz.com",
       "https://888starz-official.org/"
     ],
-    "display_order": 37,
+    "display_order": 34,
     "status": "draft"
   },
   {
@@ -1253,7 +1184,7 @@
       "https://www.bet9ja.com",
       "https://bet9ja.net.ng/"
     ],
-    "display_order": 38,
+    "display_order": 35,
     "status": "draft"
   },
   {
@@ -1288,7 +1219,7 @@
       "https://www.betfred.com",
       "https://footballgroundguide.com/betting/betfred/bonus"
     ],
-    "display_order": 39,
+    "display_order": 36,
     "status": "draft"
   },
   {
@@ -1312,7 +1243,7 @@
       "https://www.betlabel.com",
       "https://tips.gg/betting/betlabel/"
     ],
-    "display_order": 40,
+    "display_order": 37,
     "status": "draft"
   },
   {
@@ -1348,58 +1279,7 @@
       "https://sports.betmgm.com/en/blog/latest-sports-betting-promotions-offers-betmgm-2/",
       "https://www.trustpilot.com/review/betmgm.com"
     ],
-    "display_order": 41,
-    "status": "draft"
-  },
-  {
-    "name": "betObet",
-    "slug": "betobet",
-    "logo": "🟣",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 42,
-    "status": "draft"
-  },
-  {
-    "name": "BetOspin",
-    "slug": "betospin",
-    "logo": "🔵",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 43,
-    "status": "draft"
-  },
-  {
-    "name": "BetRepublic",
-    "slug": "betrepublic",
-    "logo": "🟢",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 44,
+    "display_order": 38,
     "status": "draft"
   },
   {
@@ -1433,7 +1313,7 @@
       "https://www.betrivers.com",
       "https://www.covers.com/betting/bonuses/betrivers-promo-codes"
     ],
-    "display_order": 45,
+    "display_order": 39,
     "status": "draft"
   },
   {
@@ -1465,24 +1345,7 @@
       "https://www.betsafe.com",
       "https://www.gamblingnews.com/sports/betsafe/"
     ],
-    "display_order": 46,
-    "status": "draft"
-  },
-  {
-    "name": "BillyBets",
-    "slug": "billybets",
-    "logo": "🟡",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 47,
+    "display_order": 40,
     "status": "draft"
   },
   {
@@ -1514,24 +1377,7 @@
       "https://punter2pro.com/bitsler-review/",
       "https://www.trustpilot.com/review/bitsler.com"
     ],
-    "display_order": 48,
-    "status": "draft"
-  },
-  {
-    "name": "Boomerang-Bet",
-    "slug": "boomerang-bet",
-    "logo": "🟡",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 49,
+    "display_order": 41,
     "status": "draft"
   },
   {
@@ -1567,75 +1413,7 @@
       "https://www.covers.com/betting/bonuses/caesars-promo-codes",
       "https://www.trustpilot.com/review/caesars.com"
     ],
-    "display_order": 50,
-    "status": "draft"
-  },
-  {
-    "name": "CasinoJoy",
-    "slug": "casinojoy",
-    "logo": "🟣",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 51,
-    "status": "draft"
-  },
-  {
-    "name": "CasinOK",
-    "slug": "casinok",
-    "logo": "🔵",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 52,
-    "status": "draft"
-  },
-  {
-    "name": "Casinova",
-    "slug": "casinova",
-    "logo": "🟡",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 53,
-    "status": "draft"
-  },
-  {
-    "name": "Cleobetra",
-    "slug": "cleobetra",
-    "logo": "🟠",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 54,
+    "display_order": 42,
     "status": "draft"
   },
   {
@@ -1666,89 +1444,7 @@
       "https://www.comeon.com",
       "https://promotions.comeon.com/en/welcome-sports/"
     ],
-    "display_order": 55,
-    "status": "draft"
-  },
-  {
-    "name": "Crashino",
-    "slug": "crashino",
-    "logo": "🟣",
-    "rating": null,
-    "bonus": null,
-    "sports": [
-      "football",
-      "basketball",
-      "tennis",
-      "esports"
-    ],
-    "features": [
-      "Crypto Payments",
-      "In-Play Betting",
-      "Mobile App",
-      "Crash Games",
-      "Provably Fair"
-    ],
-    "min_deposit": "$0 (crypto)",
-    "withdrawal_speed": "Instant",
-    "license": "Curacao eGaming (365/JAZ, MIBS N.V.)",
-    "url": "https://crashino.com",
-    "warning": "Crypto-only. Established 2021.",
-    "sources": [
-      "https://crashino.com",
-      "https://blog.crashino.com/"
-    ],
-    "display_order": 56,
-    "status": "draft"
-  },
-  {
-    "name": "CryptoRoyal",
-    "slug": "cryptoroyal",
-    "logo": "🟡",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 57,
-    "status": "draft"
-  },
-  {
-    "name": "Cybet",
-    "slug": "cybet",
-    "logo": "🔵",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 58,
-    "status": "draft"
-  },
-  {
-    "name": "Dbbet",
-    "slug": "dbbet",
-    "logo": "🟠",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 59,
+    "display_order": 43,
     "status": "draft"
   },
   {
@@ -1782,7 +1478,7 @@
       "https://duelbits.com",
       "https://www.sportsgambler.com/review/duelbits/allowed-countries/"
     ],
-    "display_order": 60,
+    "display_order": 44,
     "status": "draft"
   },
   {
@@ -1813,7 +1509,7 @@
       "https://fairspin.io",
       "https://bitedge.com/crypto-sports-betting/fairspin/"
     ],
-    "display_order": 61,
+    "display_order": 45,
     "status": "draft"
   },
   {
@@ -1847,24 +1543,7 @@
       "https://sportsbook.fanatics.com",
       "https://www.covers.com/betting/bonuses/fanatics-sportsbook-promo-codes"
     ],
-    "display_order": 62,
-    "status": "draft"
-  },
-  {
-    "name": "FieryPlay",
-    "slug": "fieryplay",
-    "logo": "🟠",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 63,
+    "display_order": 46,
     "status": "draft"
   },
   {
@@ -1896,75 +1575,7 @@
       "https://fortunejack.com",
       "https://bitedge.com/crypto-sports-betting/fortunejack/"
     ],
-    "display_order": 64,
-    "status": "draft"
-  },
-  {
-    "name": "GoldenBet",
-    "slug": "goldenbet",
-    "logo": "🟡",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 65,
-    "status": "draft"
-  },
-  {
-    "name": "GoldenPlay",
-    "slug": "goldenplay",
-    "logo": "🟡",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 66,
-    "status": "draft"
-  },
-  {
-    "name": "HitnSpin",
-    "slug": "hitnspin",
-    "logo": "🟣",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 67,
-    "status": "draft"
-  },
-  {
-    "name": "Immerion",
-    "slug": "immerion",
-    "logo": "🔵",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 68,
+    "display_order": 47,
     "status": "draft"
   },
   {
@@ -1997,7 +1608,7 @@
       "https://punter2pro.com/ivibet-review/",
       "https://www.transfermarkt.com/betting/sites/ivibet/"
     ],
-    "display_order": 69,
+    "display_order": 48,
     "status": "draft"
   },
   {
@@ -2031,164 +1642,7 @@
       "https://www.vip-grinders.com/best-online-casinos/jack-com-casino-review/",
       "https://bitedge.com/crypto-sports-betting/jackbit/"
     ],
-    "display_order": 70,
-    "status": "draft"
-  },
-  {
-    "name": "Jackpotter",
-    "slug": "jackpotter",
-    "logo": "🟡",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 71,
-    "status": "draft"
-  },
-  {
-    "name": "JB",
-    "slug": "jb",
-    "logo": "🔵",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 72,
-    "status": "draft"
-  },
-  {
-    "name": "Jet.Casino",
-    "slug": "jet-casino",
-    "logo": "🟣",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 73,
-    "status": "draft"
-  },
-  {
-    "name": "Jettbet",
-    "slug": "jettbet",
-    "logo": "🟠",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 74,
-    "status": "draft"
-  },
-  {
-    "name": "Kingmaker",
-    "slug": "kingmaker",
-    "logo": "🟡",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 75,
-    "status": "draft"
-  },
-  {
-    "name": "Librabet",
-    "slug": "librabet",
-    "logo": "🔵",
-    "rating": null,
-    "bonus": "150% up to CA$1,000 + 100 FS",
-    "sports": null,
-    "features": [
-      "In-Play Betting",
-      "Mobile App",
-      "Cash Out",
-      "Crypto Payments"
-    ],
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": "https://librabet.com",
-    "warning": "Established 2018.",
-    "sources": [
-      "https://librabets.ca/"
-    ],
-    "display_order": 76,
-    "status": "draft"
-  },
-  {
-    "name": "Mr Green",
-    "slug": "mr-green",
-    "logo": "🟢",
-    "rating": null,
-    "bonus": null,
-    "sports": [
-      "football",
-      "basketball",
-      "tennis",
-      "horse racing",
-      "golf"
-    ],
-    "features": [
-      "Live Streaming",
-      "Cash Out",
-      "In-Play Betting",
-      "Mobile App"
-    ],
-    "min_deposit": "GBP 10",
-    "withdrawal_speed": "1-3 days",
-    "license": "UK Gambling Commission, Malta Gaming Authority (William Hill Group)",
-    "url": "https://www.mrgreen.com",
-    "warning": "Established 2007. Part of William Hill since 2019.",
-    "sources": [
-      "https://www.mrgreen.com",
-      "https://www.gamblingcommission.gov.uk/news/article/william-hill-group-businesses-to-pay-record-gbp19-2m-for-failures"
-    ],
-    "display_order": 77,
-    "status": "draft"
-  },
-  {
-    "name": "MrPacho",
-    "slug": "mrpacho",
-    "logo": "🟠",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 78,
+    "display_order": 49,
     "status": "draft"
   },
   {
@@ -2220,89 +1674,7 @@
       "https://mystake.com",
       "https://punter2pro.com/mystake-review/"
     ],
-    "display_order": 79,
-    "status": "draft"
-  },
-  {
-    "name": "NordicBet",
-    "slug": "nordicbet",
-    "logo": "🔵",
-    "rating": null,
-    "bonus": null,
-    "sports": [
-      "football",
-      "basketball",
-      "tennis",
-      "hockey",
-      "mma"
-    ],
-    "features": [
-      "Live Streaming",
-      "Cash Out",
-      "In-Play Betting",
-      "Mobile App"
-    ],
-    "min_deposit": null,
-    "withdrawal_speed": "1-3 days",
-    "license": "Malta Gaming Authority, Swedish Gambling Authority, Danish Gambling Authority (Betsson Group)",
-    "url": "https://www.nordicbet.com",
-    "warning": "Scandinavian market focused. Established 2002.",
-    "sources": [
-      "https://www.nordicbet.com",
-      "https://smartbettingguide.com/nordicbet-review/"
-    ],
-    "display_order": 80,
-    "status": "draft"
-  },
-  {
-    "name": "NovaJackpot",
-    "slug": "novajackpot",
-    "logo": "🟡",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 81,
-    "status": "draft"
-  },
-  {
-    "name": "PalmSlots",
-    "slug": "palmslots",
-    "logo": "🟢",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 82,
-    "status": "draft"
-  },
-  {
-    "name": "Planbet",
-    "slug": "planbet",
-    "logo": "🟡",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 83,
+    "display_order": 50,
     "status": "draft"
   },
   {
@@ -2335,24 +1707,7 @@
       "https://www.pointsbet.com",
       "https://www.covers.com/betting/bonuses/pointsbet-promo-codes"
     ],
-    "display_order": 84,
-    "status": "draft"
-  },
-  {
-    "name": "Powbet",
-    "slug": "powbet",
-    "logo": "🟠",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 85,
+    "display_order": 51,
     "status": "draft"
   },
   {
@@ -2385,58 +1740,7 @@
       "https://rabona.com",
       "https://smartbettingguide.com/rolletto-review/"
     ],
-    "display_order": 86,
-    "status": "draft"
-  },
-  {
-    "name": "Richville",
-    "slug": "richville",
-    "logo": "🟡",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 87,
-    "status": "draft"
-  },
-  {
-    "name": "RioAce",
-    "slug": "rioace",
-    "logo": "🟣",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 88,
-    "status": "draft"
-  },
-  {
-    "name": "RodeoSlot",
-    "slug": "rodeoslot",
-    "logo": "🟠",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 89,
+    "display_order": 52,
     "status": "draft"
   },
   {
@@ -2470,183 +1774,7 @@
       "https://smartbettingguide.com/rolletto-review/",
       "https://rollettocasino-official.co.uk/"
     ],
-    "display_order": 90,
-    "status": "draft"
-  },
-  {
-    "name": "Romancasino",
-    "slug": "romancasino",
-    "logo": "🔴",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 91,
-    "status": "draft"
-  },
-  {
-    "name": "Shuffle",
-    "slug": "shuffle",
-    "logo": "🟣",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": [
-      "Crypto Payments",
-      "In-Play Betting",
-      "Mobile App"
-    ],
-    "min_deposit": "$0 (crypto)",
-    "withdrawal_speed": "Instant",
-    "license": null,
-    "url": "https://shuffle.com",
-    "warning": "Crypto-only.",
-    "sources": [
-      "https://shuffle.com"
-    ],
-    "display_order": 92,
-    "status": "draft"
-  },
-  {
-    "name": "SlotNeo",
-    "slug": "slotneo",
-    "logo": "🟡",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 93,
-    "status": "draft"
-  },
-  {
-    "name": "Slotoro",
-    "slug": "slotoro",
-    "logo": "🔵",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 94,
-    "status": "draft"
-  },
-  {
-    "name": "SpellWin",
-    "slug": "spellwin",
-    "logo": "🟣",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 95,
-    "status": "draft"
-  },
-  {
-    "name": "SpinBetter",
-    "slug": "spinbetter",
-    "logo": "🟢",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 96,
-    "status": "draft"
-  },
-  {
-    "name": "SpinPlatinum",
-    "slug": "spinplatinum",
-    "logo": "🟡",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 97,
-    "status": "draft"
-  },
-  {
-    "name": "Stonevegas",
-    "slug": "stonevegas",
-    "logo": "🟠",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 98,
-    "status": "draft"
-  },
-  {
-    "name": "Thrill",
-    "slug": "thrill",
-    "logo": "🟣",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 99,
-    "status": "draft"
-  },
-  {
-    "name": "Tip-Top",
-    "slug": "tip-top",
-    "logo": "🟢",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 100,
+    "display_order": 53,
     "status": "draft"
   },
   {
@@ -2680,213 +1808,7 @@
       "https://www.thesportsgeek.com/reviews/trust-dice/",
       "https://www.trustpilot.com/review/trustdice.win"
     ],
-    "display_order": 101,
-    "status": "draft"
-  },
-  {
-    "name": "Vavada",
-    "slug": "vavada",
-    "logo": "🔴",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": [
-      "In-Play Betting",
-      "Mobile App",
-      "Crypto Payments"
-    ],
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": "https://vavada.com",
-    "warning": "Casino-focused.",
-    "sources": [
-      "https://vavada.com"
-    ],
-    "display_order": 102,
-    "status": "draft"
-  },
-  {
-    "name": "Vave",
-    "slug": "vave",
-    "logo": "🟣",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": [
-      "Crypto Payments",
-      "In-Play Betting",
-      "Mobile App"
-    ],
-    "min_deposit": "$0 (crypto)",
-    "withdrawal_speed": "Instant",
-    "license": null,
-    "url": "https://vave.com",
-    "warning": "Crypto-focused.",
-    "sources": [
-      "https://vave.com"
-    ],
-    "display_order": 103,
-    "status": "draft"
-  },
-  {
-    "name": "Velobet",
-    "slug": "velobet",
-    "logo": "🟢",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 104,
-    "status": "draft"
-  },
-  {
-    "name": "VOdds",
-    "slug": "vodds",
-    "logo": "🔵",
-    "rating": null,
-    "bonus": null,
-    "sports": [
-      "football",
-      "basketball",
-      "tennis",
-      "esports",
-      "mma"
-    ],
-    "features": [
-      "Odds Comparison",
-      "In-Play Betting",
-      "API Access"
-    ],
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": "https://www.vodds.com",
-    "warning": "Professional bettor/API focused.",
-    "sources": [
-      "https://www.vodds.com"
-    ],
-    "display_order": 105,
-    "status": "draft"
-  },
-  {
-    "name": "Whale.io",
-    "slug": "whale-io",
-    "logo": "🟣",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": [
-      "Crypto Payments",
-      "In-Play Betting",
-      "NFT Integration"
-    ],
-    "min_deposit": "$0 (crypto)",
-    "withdrawal_speed": "Instant",
-    "license": null,
-    "url": "https://whale.io",
-    "warning": "Crypto-only.",
-    "sources": [
-      "https://whale.io"
-    ],
-    "display_order": 106,
-    "status": "draft"
-  },
-  {
-    "name": "Winbet",
-    "slug": "winbet",
-    "logo": "🟢",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 107,
-    "status": "draft"
-  },
-  {
-    "name": "Winwin",
-    "slug": "winwin",
-    "logo": "🟡",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 108,
-    "status": "draft"
-  },
-  {
-    "name": "Winz",
-    "slug": "winz",
-    "logo": "🟠",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": [
-      "Crypto Payments",
-      "In-Play Betting",
-      "Mobile App"
-    ],
-    "min_deposit": "$0 (crypto)",
-    "withdrawal_speed": "Instant",
-    "license": null,
-    "url": "https://winz.io",
-    "warning": "Crypto-focused.",
-    "sources": [
-      "https://winz.io"
-    ],
-    "display_order": 109,
-    "status": "draft"
-  },
-  {
-    "name": "Ybets",
-    "slug": "ybets",
-    "logo": "🔵",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 110,
-    "status": "draft"
-  },
-  {
-    "name": "Zizobet",
-    "slug": "zizobet",
-    "logo": "🟣",
-    "rating": null,
-    "bonus": null,
-    "sports": null,
-    "features": null,
-    "min_deposit": null,
-    "withdrawal_speed": null,
-    "license": null,
-    "url": null,
-    "warning": "No verifiable primary source data found.",
-    "sources": [],
-    "display_order": 111,
+    "display_order": 54,
     "status": "draft"
   }
 ]
