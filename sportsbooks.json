@@ -5,8 +5,24 @@
     "logo": "🟢",
     "rating": 9.2,
     "bonus": "Up to $30 in Bet Credits",
-    "sports": ["football", "cricket", "basketball", "tennis", "mma", "horse racing", "greyhounds", "esports"],
-    "features": ["Live Streaming", "Cash Out", "Bet Builder", "In-Play Betting", "Mobile App", "Early Payout"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "mma",
+      "horse racing",
+      "greyhounds",
+      "esports"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "Bet Builder",
+      "In-Play Betting",
+      "Mobile App",
+      "Early Payout"
+    ],
     "min_deposit": "$10",
     "withdrawal_speed": "1-3 days",
     "license": "UK Gambling Commission (licence #000-039448-R-319446-007)",
@@ -26,8 +42,22 @@
     "logo": "🟡",
     "rating": 8.5,
     "bonus": "160% Sports Welcome Bonus up to INR 16,000",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports", "kabaddi", "horse racing"],
-    "features": ["Live Streaming", "Cash Out", "In-Play Betting", "Mobile App", "Betting Exchange"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "kabaddi",
+      "horse racing"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App",
+      "Betting Exchange"
+    ],
     "min_deposit": "$5",
     "withdrawal_speed": "1-3 days",
     "license": "Curacao eGaming (Osmila N.V.)",
@@ -47,8 +77,24 @@
     "logo": "🔵",
     "rating": 8.0,
     "bonus": "125% up to INR 34,000 + 250 Free Spins",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports", "kabaddi", "volleyball", "table tennis"],
-    "features": ["Live Streaming", "Cash Out", "In-Play Betting", "Mobile App", "Crypto Payments", "Telegram Bot"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "kabaddi",
+      "volleyball",
+      "table tennis"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments",
+      "Telegram Bot"
+    ],
     "min_deposit": "$1",
     "withdrawal_speed": "Instant - 24h",
     "license": "Curacao eGaming (Bizbon N.V., licence 8048/JAZ)",
@@ -68,8 +114,23 @@
     "logo": "🟡",
     "rating": 8.3,
     "bonus": "150% up to INR 30,000",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports", "kabaddi", "mma"],
-    "features": ["Live Streaming", "Cash Out", "Bet Builder", "In-Play Betting", "Mobile App", "UPI/Paytm"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "kabaddi",
+      "mma"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "Bet Builder",
+      "In-Play Betting",
+      "Mobile App",
+      "UPI/Paytm"
+    ],
     "min_deposit": "$3",
     "withdrawal_speed": "1-24h",
     "license": "Curacao eGaming",
@@ -89,8 +150,20 @@
     "logo": "🔴",
     "rating": 7.8,
     "bonus": "77% up to 7,777 BDT",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports", "kabaddi"],
-    "features": ["Cash Out", "In-Play Betting", "Mobile App", "bKash/Nagad/Rocket"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "kabaddi"
+    ],
+    "features": [
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App",
+      "bKash/Nagad/Rocket"
+    ],
     "min_deposit": "500 BDT",
     "withdrawal_speed": "1-24h",
     "license": "Curacao eGaming",
@@ -110,8 +183,20 @@
     "logo": "🟠",
     "rating": 7.6,
     "bonus": "77% up to 7,777 BDT",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports", "kabaddi"],
-    "features": ["In-Play Betting", "Mobile App", "bKash/Nagad/Rocket", "Cash Out"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "kabaddi"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "bKash/Nagad/Rocket",
+      "Cash Out"
+    ],
     "min_deposit": "500 BDT",
     "withdrawal_speed": "1-24h",
     "license": "Curacao eGaming (Aurora Holdings N.V., licence 1668/JAZ)",
@@ -131,8 +216,19 @@
     "logo": "🟣",
     "rating": 7.5,
     "bonus": "100% Sports Bonus up to 15,000 BDT",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports"],
-    "features": ["In-Play Betting", "Mobile App", "bKash/Nagad/Rocket", "Crash Games"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "bKash/Nagad/Rocket",
+      "Crash Games"
+    ],
     "min_deposit": "500 BDT",
     "withdrawal_speed": "1-24h",
     "license": "Curacao eGaming",
@@ -152,8 +248,22 @@
     "logo": "🔵",
     "rating": 7.7,
     "bonus": "500% up to INR 80,400 (across 4 deposits)",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports", "mma", "volleyball"],
-    "features": ["Live Streaming", "In-Play Betting", "Mobile App", "UPI/Paytm", "Crypto Payments"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma",
+      "volleyball"
+    ],
+    "features": [
+      "Live Streaming",
+      "In-Play Betting",
+      "Mobile App",
+      "UPI/Paytm",
+      "Crypto Payments"
+    ],
     "min_deposit": "INR 300",
     "withdrawal_speed": "Instant - 24h",
     "license": "Curacao eGaming (licence 8048/JAZ2018-040)",
@@ -173,8 +283,24 @@
     "logo": "⚫",
     "rating": 7.9,
     "bonus": "150% up to INR 40,000",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports", "kabaddi", "horse racing", "volleyball"],
-    "features": ["Live Streaming", "Cash Out", "In-Play Betting", "Mobile App", "Crypto Payments", "Telegram Bot"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "kabaddi",
+      "horse racing",
+      "volleyball"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments",
+      "Telegram Bot"
+    ],
     "min_deposit": "$1",
     "withdrawal_speed": "Instant - 24h",
     "license": "Curacao Gaming Control Board",
@@ -194,8 +320,24 @@
     "logo": "🟢",
     "rating": 7.8,
     "bonus": "100% up to $130",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports", "kabaddi", "mma", "volleyball"],
-    "features": ["Live Streaming", "Cash Out", "In-Play Betting", "Mobile App", "Crypto Payments", "Telegram Bot"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "kabaddi",
+      "mma",
+      "volleyball"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments",
+      "Telegram Bot"
+    ],
     "min_deposit": "$1",
     "withdrawal_speed": "Instant - 24h",
     "license": "Curacao eGaming",
@@ -215,8 +357,24 @@
     "logo": "🔴",
     "rating": 7.7,
     "bonus": "100% up to INR 30,000",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports", "kabaddi", "mma", "volleyball"],
-    "features": ["Live Streaming", "Cash Out", "In-Play Betting", "Mobile App", "Crypto Payments", "UPI/Paytm"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "kabaddi",
+      "mma",
+      "volleyball"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments",
+      "UPI/Paytm"
+    ],
     "min_deposit": "$1",
     "withdrawal_speed": "Instant - 24h",
     "license": "Anjouan Gaming (licence ALSI-112310012-F15)",
@@ -236,8 +394,23 @@
     "logo": "🟠",
     "rating": 7.5,
     "bonus": "100% up to INR 10,000",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports", "kabaddi", "mma"],
-    "features": ["Live Streaming", "Cash Out", "In-Play Betting", "Mobile App", "Crypto Payments", "UPI/Paytm"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "kabaddi",
+      "mma"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments",
+      "UPI/Paytm"
+    ],
     "min_deposit": "INR 80",
     "withdrawal_speed": "Instant - 24h",
     "license": "Curacao eGaming (OGL/2024/225/0601)",
@@ -257,8 +430,19 @@
     "logo": "🟡",
     "rating": 7.4,
     "bonus": "100% up to 18,000 BDT",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports"],
-    "features": ["In-Play Betting", "Mobile App", "bKash/Nagad/Rocket", "Crash Games"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "bKash/Nagad/Rocket",
+      "Crash Games"
+    ],
     "min_deposit": "500 BDT",
     "withdrawal_speed": "1-24h",
     "license": "Curacao eGaming (licence 365/JAZ)",
@@ -278,8 +462,18 @@
     "logo": "🟢",
     "rating": 7.2,
     "bonus": "125% up to 25,000 BDT + 200 Free Spins",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports"],
-    "features": ["In-Play Betting", "Mobile App", "bKash/Nagad/Rocket"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "bKash/Nagad/Rocket"
+    ],
     "min_deposit": "500 BDT",
     "withdrawal_speed": "1-24h",
     "license": "Anjouan Gaming (Ingrex Tech LTD)",
@@ -299,8 +493,21 @@
     "logo": "🔴",
     "rating": 7.6,
     "bonus": "125% up to INR 450,000 + 250 Free Spins",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports", "mma"],
-    "features": ["Live Streaming", "In-Play Betting", "Mobile App", "UPI/Paytm", "Crypto Payments"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Live Streaming",
+      "In-Play Betting",
+      "Mobile App",
+      "UPI/Paytm",
+      "Crypto Payments"
+    ],
     "min_deposit": "INR 300",
     "withdrawal_speed": "1-24h",
     "license": "Curacao eGaming (licence 8048/JAZ)",
@@ -320,8 +527,23 @@
     "logo": "🔵",
     "rating": 8.4,
     "bonus": "200% up to $1,000 (VIP rakeback system)",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports", "mma", "horse racing"],
-    "features": ["Live Streaming", "Cash Out", "In-Play Betting", "Mobile App", "Crypto Payments", "Provably Fair"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma",
+      "horse racing"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments",
+      "Provably Fair"
+    ],
     "min_deposit": "$0 (crypto)",
     "withdrawal_speed": "Instant",
     "license": "Curacao Gaming Authority (OGL/2024/1451/0918, Medium Rare N.V.)",
@@ -341,8 +563,20 @@
     "logo": "🟡",
     "rating": 7.6,
     "bonus": "188% up to MYR 888",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports", "badminton"],
-    "features": ["Live Streaming", "In-Play Betting", "Mobile App", "Crypto Payments"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "badminton"
+    ],
+    "features": [
+      "Live Streaming",
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments"
+    ],
     "min_deposit": "$10",
     "withdrawal_speed": "1-24h",
     "license": "Curacao Gaming Control Board",
@@ -362,8 +596,23 @@
     "logo": "🟢",
     "rating": 9.0,
     "bonus": "Bet $5, Get $100 in Bonus Bets",
-    "sports": ["football", "basketball", "baseball", "hockey", "tennis", "mma", "golf"],
-    "features": ["Live Streaming", "Cash Out", "Bet Builder", "In-Play Betting", "Mobile App", "Same Game Parlay"],
+    "sports": [
+      "football",
+      "basketball",
+      "baseball",
+      "hockey",
+      "tennis",
+      "mma",
+      "golf"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "Bet Builder",
+      "In-Play Betting",
+      "Mobile App",
+      "Same Game Parlay"
+    ],
     "min_deposit": "$5",
     "withdrawal_speed": "1-3 days",
     "license": "Multi-state US licenses (NJ, PA, CO, MI, etc.)",
@@ -383,8 +632,23 @@
     "logo": "🔵",
     "rating": 9.0,
     "bonus": "Bet $5, Get $150 in Bonus Bets if Your Bet Wins",
-    "sports": ["football", "basketball", "baseball", "hockey", "tennis", "mma", "golf"],
-    "features": ["Live Streaming", "Cash Out", "Bet Builder", "In-Play Betting", "Mobile App", "Same Game Parlay"],
+    "sports": [
+      "football",
+      "basketball",
+      "baseball",
+      "hockey",
+      "tennis",
+      "mma",
+      "golf"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "Bet Builder",
+      "In-Play Betting",
+      "Mobile App",
+      "Same Game Parlay"
+    ],
     "min_deposit": "$5",
     "withdrawal_speed": "1-3 days",
     "license": "Multi-state US licenses (NJ, PA, CO, MI, etc.)",
@@ -404,8 +668,23 @@
     "logo": "🔵",
     "rating": 8.8,
     "bonus": "Bet 10, Get 30 in Free Bets",
-    "sports": ["football", "cricket", "basketball", "tennis", "horse racing", "mma", "golf", "greyhounds"],
-    "features": ["Live Streaming", "Cash Out", "Bet Builder", "In-Play Betting", "Mobile App"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "horse racing",
+      "mma",
+      "golf",
+      "greyhounds"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "Bet Builder",
+      "In-Play Betting",
+      "Mobile App"
+    ],
     "min_deposit": "GBP 10",
     "withdrawal_speed": "1-3 days",
     "license": "UK Gambling Commission (account 39225), MGA, Gibraltar GC",
@@ -425,8 +704,22 @@
     "logo": "🟡",
     "rating": 8.7,
     "bonus": "Bet 10, Get 30 in Free Bets",
-    "sports": ["football", "cricket", "basketball", "tennis", "horse racing", "mma", "golf"],
-    "features": ["Betting Exchange", "Live Streaming", "Cash Out", "In-Play Betting", "Mobile App"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "horse racing",
+      "mma",
+      "golf"
+    ],
+    "features": [
+      "Betting Exchange",
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App"
+    ],
     "min_deposit": "GBP 10",
     "withdrawal_speed": "1-3 days",
     "license": "UK Gambling Commission, Malta Gaming Authority",
@@ -446,8 +739,23 @@
     "logo": "🔵",
     "rating": 8.5,
     "bonus": "No traditional welcome bonus — Best odds and high limits",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports", "mma", "baseball", "hockey"],
-    "features": ["Best Odds Guarantee", "High Limits", "In-Play Betting", "Mobile App", "No Account Restrictions"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma",
+      "baseball",
+      "hockey"
+    ],
+    "features": [
+      "Best Odds Guarantee",
+      "High Limits",
+      "In-Play Betting",
+      "Mobile App",
+      "No Account Restrictions"
+    ],
     "min_deposit": "$10",
     "withdrawal_speed": "1-24h",
     "license": "Malta Gaming Authority, Curacao eGaming",
@@ -467,8 +775,21 @@
     "logo": "⚫",
     "rating": 8.0,
     "bonus": "100% up to 5 BTC",
-    "sports": ["football", "cricket", "basketball", "tennis", "esports", "mma"],
-    "features": ["Crypto Payments", "Live Streaming", "In-Play Betting", "Mobile App", "Provably Fair"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Crypto Payments",
+      "Live Streaming",
+      "In-Play Betting",
+      "Mobile App",
+      "Provably Fair"
+    ],
     "min_deposit": "0.001 BTC",
     "withdrawal_speed": "Instant",
     "license": "Curacao eGaming (Halcyon Super Holdings B.V.)",
@@ -488,8 +809,20 @@
     "logo": "🟠",
     "rating": 8.3,
     "bonus": "Bet 10, Get 30 in Free Bets",
-    "sports": ["football", "cricket", "basketball", "tennis", "horse racing", "mma"],
-    "features": ["Live Streaming", "Cash Out", "In-Play Betting", "Mobile App"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "horse racing",
+      "mma"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App"
+    ],
     "min_deposit": "GBP 10",
     "withdrawal_speed": "1-3 days",
     "license": "UK Gambling Commission, Malta Gaming Authority",
@@ -509,8 +842,20 @@
     "logo": "🔵",
     "rating": 7.8,
     "bonus": "100% up to $200",
-    "sports": ["football", "basketball", "tennis", "esports", "mma"],
-    "features": ["Live Streaming", "Cash Out", "In-Play Betting", "Mobile App", "Esports Focus"],
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App",
+      "Esports Focus"
+    ],
     "min_deposit": "$10",
     "withdrawal_speed": "1-24h",
     "license": "Curacao eGaming",
@@ -530,8 +875,21 @@
     "logo": "🟣",
     "rating": 7.9,
     "bonus": "100% up to 600 EUR",
-    "sports": ["football", "basketball", "tennis", "esports", "mma"],
-    "features": ["Crypto Payments", "Live Streaming", "In-Play Betting", "Mobile App", "Esports Focus", "Provably Fair"],
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Crypto Payments",
+      "Live Streaming",
+      "In-Play Betting",
+      "Mobile App",
+      "Esports Focus",
+      "Provably Fair"
+    ],
     "min_deposit": "$20",
     "withdrawal_speed": "Instant",
     "license": "Curacao Gaming Control Board (OGL/2024/677/0722, Paloma Media B.V.)",
@@ -551,8 +909,22 @@
     "logo": "🟢",
     "rating": 8.4,
     "bonus": "Bet 10, Get 30 in Free Bets",
-    "sports": ["football", "cricket", "basketball", "tennis", "horse racing", "mma", "golf"],
-    "features": ["Live Streaming", "Cash Out", "Bet Builder", "In-Play Betting", "Mobile App"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "horse racing",
+      "mma",
+      "golf"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "Bet Builder",
+      "In-Play Betting",
+      "Mobile App"
+    ],
     "min_deposit": "GBP 10",
     "withdrawal_speed": "1-3 days",
     "license": "Malta Gaming Authority, UK Gambling Commission (Kindred Group)",
@@ -572,8 +944,20 @@
     "logo": "🟡",
     "rating": 7.8,
     "bonus": "Up to 200 EUR/day cashback",
-    "sports": ["football", "basketball", "tennis", "esports", "mma"],
-    "features": ["Crypto Payments", "In-Play Betting", "Mobile App", "Provably Fair", "Crash Games"],
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Crypto Payments",
+      "In-Play Betting",
+      "Mobile App",
+      "Provably Fair",
+      "Crash Games"
+    ],
     "min_deposit": "$0 (crypto)",
     "withdrawal_speed": "Instant",
     "license": "Curacao eGaming (OGL/2024/687/0427, Raw Entertainment B.V.)",
@@ -593,8 +977,22 @@
     "logo": "🟠",
     "rating": 8.2,
     "bonus": "100% up to 100 EUR",
-    "sports": ["football", "cricket", "basketball", "tennis", "horse racing", "mma", "golf"],
-    "features": ["Live Streaming", "Cash Out", "Bet Builder", "In-Play Betting", "Mobile App"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "horse racing",
+      "mma",
+      "golf"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "Bet Builder",
+      "In-Play Betting",
+      "Mobile App"
+    ],
     "min_deposit": "10 EUR",
     "withdrawal_speed": "1-3 days",
     "license": "Malta Gaming Authority, Swedish Gambling Authority",
@@ -613,8 +1011,24 @@
     "logo": "🟢",
     "rating": 8.5,
     "bonus": "Bet 10, Get 40 in Free Bets",
-    "sports": ["football", "cricket", "basketball", "tennis", "horse racing", "mma", "golf", "greyhounds"],
-    "features": ["Live Streaming", "Cash Out", "Bet Builder", "In-Play Betting", "Mobile App", "Money Back Specials"],
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "horse racing",
+      "mma",
+      "golf",
+      "greyhounds"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "Bet Builder",
+      "In-Play Betting",
+      "Mobile App",
+      "Money Back Specials"
+    ],
     "min_deposit": "GBP 10",
     "withdrawal_speed": "1-3 days",
     "license": "UK Gambling Commission, Malta Gaming Authority",
@@ -626,5 +1040,2355 @@
       "https://www.paddypower.com",
       "https://www.trustpilot.com/review/paddypower.com"
     ]
+  },
+  {
+    "name": "0xbet",
+    "slug": "0xbet",
+    "logo": "🟣",
+    "rating": 6.5,
+    "bonus": "100% up to $1,000",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Crypto Payments",
+      "In-Play Betting",
+      "Mobile App",
+      "Provably Fair"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "Instant",
+    "license": "Curacao eGaming",
+    "url": "https://0xbet.com",
+    "warning": "Crypto-focused platform.",
+    "sources": [
+      "https://0xbet.com"
+    ],
+    "display_order": 31,
+    "status": "draft"
+  },
+  {
+    "name": "18bet",
+    "slug": "18bet",
+    "logo": "🔵",
+    "rating": 6.8,
+    "bonus": "100% up to $100",
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "horse racing"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Cash Out"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-3 days",
+    "license": "Curacao eGaming",
+    "url": "https://www.18bet.com",
+    "warning": "",
+    "sources": [
+      "https://www.18bet.com"
+    ],
+    "display_order": 32,
+    "status": "draft"
+  },
+  {
+    "name": "1bet",
+    "slug": "1bet",
+    "logo": "🟢",
+    "rating": 6.7,
+    "bonus": "100% up to $500",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://1bet.com",
+    "warning": "",
+    "sources": [
+      "https://1bet.com"
+    ],
+    "display_order": 33,
+    "status": "draft"
+  },
+  {
+    "name": "20bet",
+    "slug": "20bet",
+    "logo": "🟡",
+    "rating": 7.3,
+    "bonus": "100% up to $100",
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Live Streaming",
+      "In-Play Betting",
+      "Mobile App",
+      "Cash Out"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming (TechSolutions Group N.V.)",
+    "url": "https://20bet.com",
+    "warning": "",
+    "sources": [
+      "https://20bet.com"
+    ],
+    "display_order": 34,
+    "status": "draft"
+  },
+  {
+    "name": "2UP",
+    "slug": "2up",
+    "logo": "🟠",
+    "rating": 6.5,
+    "bonus": "100% up to $200",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://2up.com",
+    "warning": "",
+    "sources": [
+      "https://2up.com"
+    ],
+    "display_order": 35,
+    "status": "draft"
+  },
+  {
+    "name": "888sport",
+    "slug": "888sport",
+    "logo": "🟢",
+    "rating": 8.3,
+    "bonus": "Bet 10, Get 30 in Free Bets",
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "horse racing",
+      "mma",
+      "golf"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App",
+      "Bet Builder"
+    ],
+    "min_deposit": "GBP 10",
+    "withdrawal_speed": "1-3 days",
+    "license": "UK Gambling Commission, Malta Gaming Authority (MGA/CRP/121/2006)",
+    "url": "https://www.888sport.com",
+    "warning": "",
+    "sources": [
+      "https://www.888sport.com",
+      "https://www.888sport.com/security-and-privacy/licensing/"
+    ],
+    "display_order": 36,
+    "status": "draft"
+  },
+  {
+    "name": "888starz",
+    "slug": "888starz",
+    "logo": "⚫",
+    "rating": 7.0,
+    "bonus": "100% up to $150",
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Live Streaming",
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments",
+      "Telegram Bot"
+    ],
+    "min_deposit": "$1",
+    "withdrawal_speed": "Instant - 24h",
+    "license": "Curacao eGaming",
+    "url": "https://888starz.bet",
+    "warning": "",
+    "sources": [
+      "https://888starz.bet"
+    ],
+    "display_order": 37,
+    "status": "draft"
+  },
+  {
+    "name": "Bet9ja",
+    "slug": "bet9ja",
+    "logo": "🟢",
+    "rating": 7.5,
+    "bonus": "100% up to NGN 100,000",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "mma",
+      "virtual sports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Cash Out",
+      "Virtual Sports"
+    ],
+    "min_deposit": "NGN 100",
+    "withdrawal_speed": "1-24h",
+    "license": "Lagos State Lotteries Board, Nigeria",
+    "url": "https://www.bet9ja.com",
+    "warning": "Nigeria only.",
+    "sources": [
+      "https://www.bet9ja.com"
+    ],
+    "display_order": 38,
+    "status": "draft"
+  },
+  {
+    "name": "Betfred",
+    "slug": "betfred",
+    "logo": "🔵",
+    "rating": 8.0,
+    "bonus": "Bet 10, Get 40 in Free Bets",
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "horse racing",
+      "mma",
+      "golf",
+      "greyhounds"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App",
+      "Bet Builder"
+    ],
+    "min_deposit": "GBP 10",
+    "withdrawal_speed": "1-3 days",
+    "license": "UK Gambling Commission, Gibraltar Gambling Commissioner",
+    "url": "https://www.betfred.com",
+    "warning": "",
+    "sources": [
+      "https://www.betfred.com"
+    ],
+    "display_order": 39,
+    "status": "draft"
+  },
+  {
+    "name": "BetLabel",
+    "slug": "betlabel",
+    "logo": "🟡",
+    "rating": 6.5,
+    "bonus": "100% up to $500",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://betlabel.com",
+    "warning": "",
+    "sources": [
+      "https://betlabel.com"
+    ],
+    "display_order": 40,
+    "status": "draft"
+  },
+  {
+    "name": "BetMGM",
+    "slug": "betmgm",
+    "logo": "🟡",
+    "rating": 8.8,
+    "bonus": "Up to $1,500 in Bonus Bets if First Bet Loses",
+    "sports": [
+      "football",
+      "basketball",
+      "baseball",
+      "hockey",
+      "tennis",
+      "mma",
+      "golf"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "Bet Builder",
+      "In-Play Betting",
+      "Mobile App",
+      "Same Game Parlay"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-3 days",
+    "license": "Multi-state US licenses (NJ, PA, MI, etc.)",
+    "url": "https://www.betmgm.com",
+    "warning": "US only. Not available in Asia.",
+    "sources": [
+      "https://www.betmgm.com",
+      "https://sports.betmgm.com/en/blog/latest-sports-betting-promotions-offers-betmgm-2/"
+    ],
+    "display_order": 41,
+    "status": "draft"
+  },
+  {
+    "name": "betObet",
+    "slug": "betobet",
+    "logo": "🟣",
+    "rating": 6.8,
+    "bonus": "100% up to $150",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://betobet.com",
+    "warning": "",
+    "sources": [
+      "https://betobet.com"
+    ],
+    "display_order": 42,
+    "status": "draft"
+  },
+  {
+    "name": "BetOspin",
+    "slug": "betospin",
+    "logo": "🔵",
+    "rating": 6.3,
+    "bonus": "100% up to $200",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://betospin.com",
+    "warning": "Limited info available.",
+    "sources": [
+      "https://betospin.com"
+    ],
+    "display_order": 43,
+    "status": "draft"
+  },
+  {
+    "name": "BetRepublic",
+    "slug": "betrepublic",
+    "logo": "🟢",
+    "rating": 6.5,
+    "bonus": "100% up to $100",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://betrepublic.com",
+    "warning": "",
+    "sources": [
+      "https://betrepublic.com"
+    ],
+    "display_order": 44,
+    "status": "draft"
+  },
+  {
+    "name": "BetRivers",
+    "slug": "betrivers",
+    "logo": "🔵",
+    "rating": 8.2,
+    "bonus": "2nd Chance Bet up to $500",
+    "sports": [
+      "football",
+      "basketball",
+      "baseball",
+      "hockey",
+      "tennis",
+      "mma",
+      "golf"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App",
+      "Bet Builder"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-3 days",
+    "license": "Multi-state US licenses (Rush Street Interactive)",
+    "url": "https://www.betrivers.com",
+    "warning": "US only.",
+    "sources": [
+      "https://www.betrivers.com",
+      "https://www.covers.com/betting/bonuses/betrivers-promo-codes"
+    ],
+    "display_order": 45,
+    "status": "draft"
+  },
+  {
+    "name": "Betsafe",
+    "slug": "betsafe",
+    "logo": "🟢",
+    "rating": 8.0,
+    "bonus": "100% up to $30",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "hockey",
+      "mma",
+      "esports"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-3 days",
+    "license": "Malta Gaming Authority, UK Gambling Commission (Betsson Group)",
+    "url": "https://www.betsafe.com",
+    "warning": "",
+    "sources": [
+      "https://www.betsafe.com"
+    ],
+    "display_order": 46,
+    "status": "draft"
+  },
+  {
+    "name": "BillyBets",
+    "slug": "billybets",
+    "logo": "🟡",
+    "rating": 6.0,
+    "bonus": "100% up to $100",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://billybets.com",
+    "warning": "Limited info available.",
+    "sources": [
+      "https://billybets.com"
+    ],
+    "display_order": 47,
+    "status": "draft"
+  },
+  {
+    "name": "Bitsler",
+    "slug": "bitsler",
+    "logo": "🟠",
+    "rating": 7.2,
+    "bonus": "Up to $700 welcome package",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Crypto Payments",
+      "In-Play Betting",
+      "Mobile App",
+      "Provably Fair"
+    ],
+    "min_deposit": "$0 (crypto)",
+    "withdrawal_speed": "Instant",
+    "license": "Curacao eGaming (Oyine N.V.)",
+    "url": "https://www.bitsler.com",
+    "warning": "Crypto-focused.",
+    "sources": [
+      "https://www.bitsler.com"
+    ],
+    "display_order": 48,
+    "status": "draft"
+  },
+  {
+    "name": "Boomerang-Bet",
+    "slug": "boomerang-bet",
+    "logo": "🟡",
+    "rating": 6.8,
+    "bonus": "100% up to $500 + 200 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://boomerang-bet.com",
+    "warning": "",
+    "sources": [
+      "https://boomerang-bet.com"
+    ],
+    "display_order": 49,
+    "status": "draft"
+  },
+  {
+    "name": "Caesars Sportsbook",
+    "slug": "caesars",
+    "logo": "🟢",
+    "rating": 8.7,
+    "bonus": "Bet $1, Get 10x 100% Profit Boost Tokens",
+    "sports": [
+      "football",
+      "basketball",
+      "baseball",
+      "hockey",
+      "tennis",
+      "mma",
+      "golf"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "Bet Builder",
+      "In-Play Betting",
+      "Mobile App",
+      "Same Game Parlay"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-3 days",
+    "license": "Multi-state US licenses",
+    "url": "https://www.caesars.com/sportsbook-and-casino",
+    "warning": "US only. Not available in Asia.",
+    "sources": [
+      "https://www.caesars.com/sportsbook-and-casino",
+      "https://www.covers.com/betting/bonuses/caesars-promo-codes"
+    ],
+    "display_order": 50,
+    "status": "draft"
+  },
+  {
+    "name": "CasinoJoy",
+    "slug": "casinojoy",
+    "logo": "🟣",
+    "rating": 6.3,
+    "bonus": "100% up to $200 + 200 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis"
+    ],
+    "features": [
+      "Mobile App",
+      "In-Play Betting"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-3 days",
+    "license": "Malta Gaming Authority",
+    "url": "https://casinojoy.com",
+    "warning": "Casino-focused, limited sportsbook.",
+    "sources": [
+      "https://casinojoy.com"
+    ],
+    "display_order": 51,
+    "status": "draft"
+  },
+  {
+    "name": "CasinOK",
+    "slug": "casinok",
+    "logo": "🔵",
+    "rating": 6.0,
+    "bonus": "100% up to $300",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis"
+    ],
+    "features": [
+      "Mobile App",
+      "In-Play Betting"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://casinok.com",
+    "warning": "Casino-focused.",
+    "sources": [
+      "https://casinok.com"
+    ],
+    "display_order": 52,
+    "status": "draft"
+  },
+  {
+    "name": "Casinova",
+    "slug": "casinova",
+    "logo": "🟡",
+    "rating": 6.2,
+    "bonus": "100% up to $500 + 100 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "Mobile App",
+      "In-Play Betting",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://casinova.com",
+    "warning": "Casino-focused.",
+    "sources": [
+      "https://casinova.com"
+    ],
+    "display_order": 53,
+    "status": "draft"
+  },
+  {
+    "name": "Cleobetra",
+    "slug": "cleobetra",
+    "logo": "🟠",
+    "rating": 6.0,
+    "bonus": "100% up to $300 + 50 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis"
+    ],
+    "features": [
+      "Mobile App",
+      "In-Play Betting"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://cleobetra.com",
+    "warning": "Casino-focused, limited sportsbook.",
+    "sources": [
+      "https://cleobetra.com"
+    ],
+    "display_order": 54,
+    "status": "draft"
+  },
+  {
+    "name": "ComeOn!",
+    "slug": "comeon",
+    "logo": "🟢",
+    "rating": 7.5,
+    "bonus": "100% up to $25",
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "horse racing"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-3 days",
+    "license": "Malta Gaming Authority, UK Gambling Commission",
+    "url": "https://www.comeon.com",
+    "warning": "",
+    "sources": [
+      "https://www.comeon.com"
+    ],
+    "display_order": 55,
+    "status": "draft"
+  },
+  {
+    "name": "Crashino",
+    "slug": "crashino",
+    "logo": "🟣",
+    "rating": 6.8,
+    "bonus": "Up to 1 BTC welcome bonus",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "Crypto Payments",
+      "In-Play Betting",
+      "Mobile App",
+      "Crash Games",
+      "Provably Fair"
+    ],
+    "min_deposit": "$0 (crypto)",
+    "withdrawal_speed": "Instant",
+    "license": "Curacao eGaming",
+    "url": "https://crashino.com",
+    "warning": "Crypto-only.",
+    "sources": [
+      "https://crashino.com"
+    ],
+    "display_order": 56,
+    "status": "draft"
+  },
+  {
+    "name": "CryptoRoyal",
+    "slug": "cryptoroyal",
+    "logo": "🟡",
+    "rating": 6.2,
+    "bonus": "100% up to $500",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "Crypto Payments",
+      "In-Play Betting",
+      "Provably Fair"
+    ],
+    "min_deposit": "$0 (crypto)",
+    "withdrawal_speed": "Instant",
+    "license": "Curacao eGaming",
+    "url": "https://cryptoroyal.com",
+    "warning": "Crypto-only. Limited info.",
+    "sources": [
+      "https://cryptoroyal.com"
+    ],
+    "display_order": 57,
+    "status": "draft"
+  },
+  {
+    "name": "Cybet",
+    "slug": "cybet",
+    "logo": "🔵",
+    "rating": 6.3,
+    "bonus": "100% up to $200",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://cybet.com",
+    "warning": "",
+    "sources": [
+      "https://cybet.com"
+    ],
+    "display_order": 58,
+    "status": "draft"
+  },
+  {
+    "name": "Dbbet",
+    "slug": "dbbet",
+    "logo": "🟠",
+    "rating": 6.3,
+    "bonus": "100% up to $100",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://dbbet.com",
+    "warning": "Limited info available.",
+    "sources": [
+      "https://dbbet.com"
+    ],
+    "display_order": 59,
+    "status": "draft"
+  },
+  {
+    "name": "Duelbits",
+    "slug": "duelbits",
+    "logo": "🟣",
+    "rating": 7.5,
+    "bonus": "500 Free Spins + $100 in Free Bets",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma",
+      "horse racing",
+      "golf"
+    ],
+    "features": [
+      "Crypto Payments",
+      "In-Play Betting",
+      "Mobile App",
+      "Provably Fair",
+      "Cash Out"
+    ],
+    "min_deposit": "$0 (crypto)",
+    "withdrawal_speed": "Instant",
+    "license": "Curacao Gaming Authority (365/JAZ, Liquid Entertainment N.V.)",
+    "url": "https://duelbits.com",
+    "warning": "Crypto-focused. Not available in UK, US, Australia.",
+    "sources": [
+      "https://duelbits.com",
+      "https://www.sportsgambler.com/review/duelbits/allowed-countries/"
+    ],
+    "display_order": 60,
+    "status": "draft"
+  },
+  {
+    "name": "Fairspin",
+    "slug": "fairspin",
+    "logo": "🔵",
+    "rating": 7.0,
+    "bonus": "Up to 450% on first 4 deposits",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "Crypto Payments",
+      "In-Play Betting",
+      "Mobile App",
+      "Provably Fair"
+    ],
+    "min_deposit": "$1",
+    "withdrawal_speed": "Instant",
+    "license": "Curacao eGaming",
+    "url": "https://fairspin.io",
+    "warning": "Crypto-focused.",
+    "sources": [
+      "https://fairspin.io"
+    ],
+    "display_order": 61,
+    "status": "draft"
+  },
+  {
+    "name": "Fanatics Sportsbook",
+    "slug": "fanatics-sportsbook",
+    "logo": "🔵",
+    "rating": 8.5,
+    "bonus": "10x $100 Bet Match in FanCash (up to $1,000)",
+    "sports": [
+      "football",
+      "basketball",
+      "baseball",
+      "hockey",
+      "tennis",
+      "mma",
+      "golf"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App",
+      "FanCash Rewards"
+    ],
+    "min_deposit": "$5",
+    "withdrawal_speed": "1-3 days",
+    "license": "Multi-state US licenses",
+    "url": "https://sportsbook.fanatics.com",
+    "warning": "US only. Not available in Asia.",
+    "sources": [
+      "https://sportsbook.fanatics.com",
+      "https://www.covers.com/betting/bonuses/fanatics-sportsbook-promo-codes"
+    ],
+    "display_order": 62,
+    "status": "draft"
+  },
+  {
+    "name": "FieryPlay",
+    "slug": "fieryplay",
+    "logo": "🟠",
+    "rating": 6.0,
+    "bonus": "100% up to $300",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://fieryplay.com",
+    "warning": "Limited info available.",
+    "sources": [
+      "https://fieryplay.com"
+    ],
+    "display_order": 63,
+    "status": "draft"
+  },
+  {
+    "name": "FortuneJack",
+    "slug": "fortunejack",
+    "logo": "🟡",
+    "rating": 7.8,
+    "bonus": "Up to 6 BTC + 350 Free Spins",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Crypto Payments",
+      "In-Play Betting",
+      "Mobile App",
+      "Provably Fair",
+      "Live Streaming"
+    ],
+    "min_deposit": "0.001 BTC",
+    "withdrawal_speed": "Instant",
+    "license": "Anjouan Gaming (ALSI-202411021-FI1, PlayWave SRL)",
+    "url": "https://fortunejack.com",
+    "warning": "Crypto-only.",
+    "sources": [
+      "https://fortunejack.com",
+      "https://bitedge.com/crypto-sports-betting/fortunejack/"
+    ],
+    "display_order": 64,
+    "status": "draft"
+  },
+  {
+    "name": "GoldenBet",
+    "slug": "goldenbet",
+    "logo": "🟡",
+    "rating": 6.5,
+    "bonus": "100% up to $500",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Cash Out"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://goldenbet.com",
+    "warning": "",
+    "sources": [
+      "https://goldenbet.com"
+    ],
+    "display_order": 65,
+    "status": "draft"
+  },
+  {
+    "name": "GoldenPlay",
+    "slug": "goldenplay",
+    "logo": "🟡",
+    "rating": 6.3,
+    "bonus": "100% up to $300",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://goldenplay.com",
+    "warning": "",
+    "sources": [
+      "https://goldenplay.com"
+    ],
+    "display_order": 66,
+    "status": "draft"
+  },
+  {
+    "name": "HitnSpin",
+    "slug": "hitnspin",
+    "logo": "🟣",
+    "rating": 6.5,
+    "bonus": "100% up to $200 + 50 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://hitnspin.com",
+    "warning": "Casino-focused.",
+    "sources": [
+      "https://hitnspin.com"
+    ],
+    "display_order": 67,
+    "status": "draft"
+  },
+  {
+    "name": "Immerion",
+    "slug": "immerion",
+    "logo": "🔵",
+    "rating": 6.0,
+    "bonus": "100% up to $300",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://immerion.com",
+    "warning": "Limited info available.",
+    "sources": [
+      "https://immerion.com"
+    ],
+    "display_order": 68,
+    "status": "draft"
+  },
+  {
+    "name": "Ivibet",
+    "slug": "ivibet",
+    "logo": "🟢",
+    "rating": 7.0,
+    "bonus": "100% up to $300 + 170 FS",
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Cash Out",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://ivibet.com",
+    "warning": "",
+    "sources": [
+      "https://ivibet.com"
+    ],
+    "display_order": 69,
+    "status": "draft"
+  },
+  {
+    "name": "JackBit",
+    "slug": "jackbit",
+    "logo": "🟠",
+    "rating": 7.3,
+    "bonus": "Up to 5 BTC welcome package",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Crypto Payments",
+      "In-Play Betting",
+      "Mobile App",
+      "Cash Out",
+      "Live Streaming"
+    ],
+    "min_deposit": "$0 (crypto)",
+    "withdrawal_speed": "Instant",
+    "license": "Curacao eGaming",
+    "url": "https://jackbit.com",
+    "warning": "Crypto-focused.",
+    "sources": [
+      "https://jackbit.com"
+    ],
+    "display_order": 70,
+    "status": "draft"
+  },
+  {
+    "name": "Jackpotter",
+    "slug": "jackpotter",
+    "logo": "🟡",
+    "rating": 6.0,
+    "bonus": "100% up to $200 + 100 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis"
+    ],
+    "features": [
+      "Mobile App",
+      "In-Play Betting"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://jackpotter.com",
+    "warning": "Casino-focused.",
+    "sources": [
+      "https://jackpotter.com"
+    ],
+    "display_order": 71,
+    "status": "draft"
+  },
+  {
+    "name": "JB",
+    "slug": "jb",
+    "logo": "🔵",
+    "rating": 6.3,
+    "bonus": "100% up to $100",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://jb.com",
+    "warning": "Limited info available.",
+    "sources": [
+      "https://jb.com"
+    ],
+    "display_order": 72,
+    "status": "draft"
+  },
+  {
+    "name": "Jet.Casino",
+    "slug": "jet-casino",
+    "logo": "🟣",
+    "rating": 6.8,
+    "bonus": "100% up to $300 + 150 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://jet.casino",
+    "warning": "Casino-focused.",
+    "sources": [
+      "https://jet.casino"
+    ],
+    "display_order": 73,
+    "status": "draft"
+  },
+  {
+    "name": "Jettbet",
+    "slug": "jettbet",
+    "logo": "🟠",
+    "rating": 6.5,
+    "bonus": "100% up to $200",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://jettbet.com",
+    "warning": "",
+    "sources": [
+      "https://jettbet.com"
+    ],
+    "display_order": 74,
+    "status": "draft"
+  },
+  {
+    "name": "Kingmaker",
+    "slug": "kingmaker",
+    "logo": "🟡",
+    "rating": 6.8,
+    "bonus": "100% up to $500",
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://kingmaker.com",
+    "warning": "",
+    "sources": [
+      "https://kingmaker.com"
+    ],
+    "display_order": 75,
+    "status": "draft"
+  },
+  {
+    "name": "Librabet",
+    "slug": "librabet",
+    "logo": "🔵",
+    "rating": 7.0,
+    "bonus": "100% up to $500 + 200 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Cash Out",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://librabet.com",
+    "warning": "",
+    "sources": [
+      "https://librabet.com"
+    ],
+    "display_order": 76,
+    "status": "draft"
+  },
+  {
+    "name": "Mr Green",
+    "slug": "mr-green",
+    "logo": "🟢",
+    "rating": 8.0,
+    "bonus": "Bet 10, Get 10 in Free Bets",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "horse racing",
+      "golf"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "GBP 10",
+    "withdrawal_speed": "1-3 days",
+    "license": "Malta Gaming Authority, UK Gambling Commission (William Hill Group)",
+    "url": "https://www.mrgreen.com",
+    "warning": "",
+    "sources": [
+      "https://www.mrgreen.com"
+    ],
+    "display_order": 77,
+    "status": "draft"
+  },
+  {
+    "name": "MrPacho",
+    "slug": "mrpacho",
+    "logo": "🟠",
+    "rating": 6.5,
+    "bonus": "100% up to $300 + 100 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://mrpacho.com",
+    "warning": "Casino-focused.",
+    "sources": [
+      "https://mrpacho.com"
+    ],
+    "display_order": 78,
+    "status": "draft"
+  },
+  {
+    "name": "Mystake",
+    "slug": "mystake",
+    "logo": "🟣",
+    "rating": 7.2,
+    "bonus": "170% Crypto Bonus up to $1,750",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Crypto Payments",
+      "In-Play Betting",
+      "Mobile App",
+      "Crash Games",
+      "Mini Games"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "Instant - 24h",
+    "license": "Curacao eGaming (OGL/2024/1798/1048)",
+    "url": "https://mystake.com",
+    "warning": "",
+    "sources": [
+      "https://mystake.com",
+      "https://punter2pro.com/mystake-review/"
+    ],
+    "display_order": 79,
+    "status": "draft"
+  },
+  {
+    "name": "NordicBet",
+    "slug": "nordicbet",
+    "logo": "🔵",
+    "rating": 7.8,
+    "bonus": "100% up to 50 EUR",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "hockey",
+      "mma"
+    ],
+    "features": [
+      "Live Streaming",
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "10 EUR",
+    "withdrawal_speed": "1-3 days",
+    "license": "Malta Gaming Authority (Betsson Group)",
+    "url": "https://www.nordicbet.com",
+    "warning": "Scandinavian market focused.",
+    "sources": [
+      "https://www.nordicbet.com"
+    ],
+    "display_order": 80,
+    "status": "draft"
+  },
+  {
+    "name": "NovaJackpot",
+    "slug": "novajackpot",
+    "logo": "🟡",
+    "rating": 6.0,
+    "bonus": "100% up to $300 + 100 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis"
+    ],
+    "features": [
+      "Mobile App",
+      "In-Play Betting"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://novajackpot.com",
+    "warning": "Casino-focused.",
+    "sources": [
+      "https://novajackpot.com"
+    ],
+    "display_order": 81,
+    "status": "draft"
+  },
+  {
+    "name": "PalmSlots",
+    "slug": "palmslots",
+    "logo": "🟢",
+    "rating": 6.3,
+    "bonus": "100% up to $300 + 200 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis"
+    ],
+    "features": [
+      "Mobile App",
+      "In-Play Betting",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://palmslots.com",
+    "warning": "Casino-focused.",
+    "sources": [
+      "https://palmslots.com"
+    ],
+    "display_order": 82,
+    "status": "draft"
+  },
+  {
+    "name": "Planbet",
+    "slug": "planbet",
+    "logo": "🟡",
+    "rating": 6.3,
+    "bonus": "100% up to $200",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://planbet.com",
+    "warning": "",
+    "sources": [
+      "https://planbet.com"
+    ],
+    "display_order": 83,
+    "status": "draft"
+  },
+  {
+    "name": "PointsBet",
+    "slug": "pointsbet",
+    "logo": "🟢",
+    "rating": 7.8,
+    "bonus": "10x $100 Second Chance Bets",
+    "sports": [
+      "football",
+      "basketball",
+      "baseball",
+      "hockey",
+      "tennis",
+      "mma",
+      "golf"
+    ],
+    "features": [
+      "Cash Out",
+      "In-Play Betting",
+      "Mobile App",
+      "PointsBetting"
+    ],
+    "min_deposit": "$5",
+    "withdrawal_speed": "1-3 days",
+    "license": "Multi-state US licenses, Ontario license",
+    "url": "https://www.pointsbet.com",
+    "warning": "Limited US availability. No welcome bonus currently.",
+    "sources": [
+      "https://www.pointsbet.com",
+      "https://www.covers.com/betting/bonuses/pointsbet-promo-codes"
+    ],
+    "display_order": 84,
+    "status": "draft"
+  },
+  {
+    "name": "Powbet",
+    "slug": "powbet",
+    "logo": "🟠",
+    "rating": 6.8,
+    "bonus": "100% up to $150",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://powbet.com",
+    "warning": "",
+    "sources": [
+      "https://powbet.com"
+    ],
+    "display_order": 85,
+    "status": "draft"
+  },
+  {
+    "name": "Rabona",
+    "slug": "rabona",
+    "logo": "🟢",
+    "rating": 7.2,
+    "bonus": "100% up to $150",
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Live Streaming",
+      "In-Play Betting",
+      "Mobile App",
+      "Cash Out"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://rabona.com",
+    "warning": "",
+    "sources": [
+      "https://rabona.com"
+    ],
+    "display_order": 86,
+    "status": "draft"
+  },
+  {
+    "name": "Richville",
+    "slug": "richville",
+    "logo": "🟡",
+    "rating": 6.0,
+    "bonus": "100% up to $300",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis"
+    ],
+    "features": [
+      "Mobile App",
+      "In-Play Betting"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://richville.com",
+    "warning": "Casino-focused.",
+    "sources": [
+      "https://richville.com"
+    ],
+    "display_order": 87,
+    "status": "draft"
+  },
+  {
+    "name": "RioAce",
+    "slug": "rioace",
+    "logo": "🟣",
+    "rating": 6.2,
+    "bonus": "100% up to $500",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://rioace.com",
+    "warning": "",
+    "sources": [
+      "https://rioace.com"
+    ],
+    "display_order": 88,
+    "status": "draft"
+  },
+  {
+    "name": "RodeoSlot",
+    "slug": "rodeoslot",
+    "logo": "🟠",
+    "rating": 6.0,
+    "bonus": "100% up to $200 + 100 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis"
+    ],
+    "features": [
+      "Mobile App",
+      "In-Play Betting"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://rodeoslot.com",
+    "warning": "Casino-focused.",
+    "sources": [
+      "https://rodeoslot.com"
+    ],
+    "display_order": 89,
+    "status": "draft"
+  },
+  {
+    "name": "Rolletto",
+    "slug": "rolletto",
+    "logo": "🟡",
+    "rating": 7.0,
+    "bonus": "100% up to $500 + 200 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Crypto Payments",
+      "In-Play Betting",
+      "Mobile App",
+      "Cash Out"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "Instant - 24h",
+    "license": "Curacao eGaming",
+    "url": "https://rolletto.com",
+    "warning": "",
+    "sources": [
+      "https://rolletto.com"
+    ],
+    "display_order": 90,
+    "status": "draft"
+  },
+  {
+    "name": "Romancasino",
+    "slug": "romancasino",
+    "logo": "🔴",
+    "rating": 6.0,
+    "bonus": "100% up to $300 + 100 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis"
+    ],
+    "features": [
+      "Mobile App",
+      "In-Play Betting"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://romancasino.com",
+    "warning": "Casino-focused.",
+    "sources": [
+      "https://romancasino.com"
+    ],
+    "display_order": 91,
+    "status": "draft"
+  },
+  {
+    "name": "Shuffle",
+    "slug": "shuffle",
+    "logo": "🟣",
+    "rating": 7.5,
+    "bonus": "Up to $1,000 rakeback",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Crypto Payments",
+      "In-Play Betting",
+      "Mobile App",
+      "Provably Fair"
+    ],
+    "min_deposit": "$0 (crypto)",
+    "withdrawal_speed": "Instant",
+    "license": "Curacao eGaming",
+    "url": "https://shuffle.com",
+    "warning": "Crypto-only.",
+    "sources": [
+      "https://shuffle.com"
+    ],
+    "display_order": 92,
+    "status": "draft"
+  },
+  {
+    "name": "SlotNeo",
+    "slug": "slotneo",
+    "logo": "🟡",
+    "rating": 6.0,
+    "bonus": "100% up to $200 + 50 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis"
+    ],
+    "features": [
+      "Mobile App",
+      "In-Play Betting"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://slotneo.com",
+    "warning": "Casino-focused.",
+    "sources": [
+      "https://slotneo.com"
+    ],
+    "display_order": 93,
+    "status": "draft"
+  },
+  {
+    "name": "Slotoro",
+    "slug": "slotoro",
+    "logo": "🔵",
+    "rating": 6.0,
+    "bonus": "100% up to $200 + 100 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis"
+    ],
+    "features": [
+      "Mobile App",
+      "In-Play Betting"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://slotoro.com",
+    "warning": "Casino-focused.",
+    "sources": [
+      "https://slotoro.com"
+    ],
+    "display_order": 94,
+    "status": "draft"
+  },
+  {
+    "name": "SpellWin",
+    "slug": "spellwin",
+    "logo": "🟣",
+    "rating": 6.2,
+    "bonus": "100% up to $300 + 100 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "Mobile App",
+      "In-Play Betting",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://spellwin.com",
+    "warning": "",
+    "sources": [
+      "https://spellwin.com"
+    ],
+    "display_order": 95,
+    "status": "draft"
+  },
+  {
+    "name": "SpinBetter",
+    "slug": "spinbetter",
+    "logo": "🟢",
+    "rating": 7.0,
+    "bonus": "100% up to $150",
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Live Streaming",
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments",
+      "Telegram Bot"
+    ],
+    "min_deposit": "$1",
+    "withdrawal_speed": "Instant - 24h",
+    "license": "Curacao eGaming",
+    "url": "https://spinbetter.com",
+    "warning": "",
+    "sources": [
+      "https://spinbetter.com"
+    ],
+    "display_order": 96,
+    "status": "draft"
+  },
+  {
+    "name": "SpinPlatinum",
+    "slug": "spinplatinum",
+    "logo": "🟡",
+    "rating": 6.0,
+    "bonus": "100% up to $300 + 50 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis"
+    ],
+    "features": [
+      "Mobile App",
+      "In-Play Betting"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://spinplatinum.com",
+    "warning": "Casino-focused.",
+    "sources": [
+      "https://spinplatinum.com"
+    ],
+    "display_order": 97,
+    "status": "draft"
+  },
+  {
+    "name": "Stonevegas",
+    "slug": "stonevegas",
+    "logo": "🟠",
+    "rating": 6.0,
+    "bonus": "100% up to $200 + 100 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis"
+    ],
+    "features": [
+      "Mobile App",
+      "In-Play Betting"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://stonevegas.com",
+    "warning": "Casino-focused.",
+    "sources": [
+      "https://stonevegas.com"
+    ],
+    "display_order": 98,
+    "status": "draft"
+  },
+  {
+    "name": "Thrill",
+    "slug": "thrill",
+    "logo": "🟣",
+    "rating": 6.5,
+    "bonus": "100% up to $300 + 100 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "Mobile App",
+      "In-Play Betting",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://thrill.com",
+    "warning": "",
+    "sources": [
+      "https://thrill.com"
+    ],
+    "display_order": 99,
+    "status": "draft"
+  },
+  {
+    "name": "Tip-Top",
+    "slug": "tip-top",
+    "logo": "🟢",
+    "rating": 6.3,
+    "bonus": "100% up to $100",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://tip-top.com",
+    "warning": "",
+    "sources": [
+      "https://tip-top.com"
+    ],
+    "display_order": 100,
+    "status": "draft"
+  },
+  {
+    "name": "TrustDice",
+    "slug": "trustdice",
+    "logo": "🟡",
+    "rating": 7.5,
+    "bonus": "Up to 3 BTC welcome bonus",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Crypto Payments",
+      "In-Play Betting",
+      "Mobile App",
+      "Provably Fair",
+      "TXT Token Staking"
+    ],
+    "min_deposit": "$0 (crypto)",
+    "withdrawal_speed": "Instant",
+    "license": "Curacao eGaming (8048/JAZ, Satoshi Gaming Group N.V.)",
+    "url": "https://trustdice.win",
+    "warning": "Crypto-focused. No KYC required.",
+    "sources": [
+      "https://trustdice.win",
+      "https://www.thesportsgeek.com/reviews/trust-dice/"
+    ],
+    "display_order": 101,
+    "status": "draft"
+  },
+  {
+    "name": "Vavada",
+    "slug": "vavada",
+    "logo": "🔴",
+    "rating": 7.0,
+    "bonus": "100% up to $1,000 + 100 FS",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "Instant - 24h",
+    "license": "Curacao eGaming",
+    "url": "https://vavada.com",
+    "warning": "Casino-focused with sportsbook.",
+    "sources": [
+      "https://vavada.com"
+    ],
+    "display_order": 102,
+    "status": "draft"
+  },
+  {
+    "name": "Vave",
+    "slug": "vave",
+    "logo": "🟣",
+    "rating": 7.3,
+    "bonus": "100% up to 1 BTC",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Crypto Payments",
+      "In-Play Betting",
+      "Mobile App",
+      "Cash Out"
+    ],
+    "min_deposit": "$0 (crypto)",
+    "withdrawal_speed": "Instant",
+    "license": "Curacao eGaming",
+    "url": "https://vave.com",
+    "warning": "Crypto-focused.",
+    "sources": [
+      "https://vave.com"
+    ],
+    "display_order": 103,
+    "status": "draft"
+  },
+  {
+    "name": "Velobet",
+    "slug": "velobet",
+    "logo": "🟢",
+    "rating": 7.0,
+    "bonus": "100% up to $150",
+    "sports": [
+      "football",
+      "cricket",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Live Streaming",
+      "In-Play Betting",
+      "Mobile App",
+      "Cash Out",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://velobet.com",
+    "warning": "",
+    "sources": [
+      "https://velobet.com"
+    ],
+    "display_order": 104,
+    "status": "draft"
+  },
+  {
+    "name": "VOdds",
+    "slug": "vodds",
+    "logo": "🔵",
+    "rating": 7.0,
+    "bonus": "No traditional welcome bonus",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Odds Comparison",
+      "In-Play Betting",
+      "Mobile App",
+      "API Access"
+    ],
+    "min_deposit": "$50",
+    "withdrawal_speed": "1-24h",
+    "license": "Isle of Man Gambling Supervision Commission",
+    "url": "https://www.vodds.com",
+    "warning": "Professional/sharp bettor focused.",
+    "sources": [
+      "https://www.vodds.com"
+    ],
+    "display_order": 105,
+    "status": "draft"
+  },
+  {
+    "name": "Whale.io",
+    "slug": "whale-io",
+    "logo": "🟣",
+    "rating": 7.0,
+    "bonus": "Up to $10,000 rakeback",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports",
+      "mma"
+    ],
+    "features": [
+      "Crypto Payments",
+      "In-Play Betting",
+      "Mobile App",
+      "Provably Fair",
+      "NFT Integration"
+    ],
+    "min_deposit": "$0 (crypto)",
+    "withdrawal_speed": "Instant",
+    "license": "Curacao eGaming",
+    "url": "https://whale.io",
+    "warning": "Crypto-only.",
+    "sources": [
+      "https://whale.io"
+    ],
+    "display_order": 106,
+    "status": "draft"
+  },
+  {
+    "name": "Winbet",
+    "slug": "winbet",
+    "logo": "🟢",
+    "rating": 6.5,
+    "bonus": "100% up to $100",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://winbet.com",
+    "warning": "",
+    "sources": [
+      "https://winbet.com"
+    ],
+    "display_order": 107,
+    "status": "draft"
+  },
+  {
+    "name": "Winwin",
+    "slug": "winwin",
+    "logo": "🟡",
+    "rating": 6.3,
+    "bonus": "100% up to $200",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://winwin.com",
+    "warning": "",
+    "sources": [
+      "https://winwin.com"
+    ],
+    "display_order": 108,
+    "status": "draft"
+  },
+  {
+    "name": "Winz",
+    "slug": "winz",
+    "logo": "🟠",
+    "rating": 7.2,
+    "bonus": "Up to 300 Free Spins (no wagering)",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "Crypto Payments",
+      "In-Play Betting",
+      "Mobile App",
+      "No Wagering Bonus"
+    ],
+    "min_deposit": "$0 (crypto)",
+    "withdrawal_speed": "Instant",
+    "license": "Curacao eGaming",
+    "url": "https://winz.io",
+    "warning": "Crypto-focused.",
+    "sources": [
+      "https://winz.io"
+    ],
+    "display_order": 109,
+    "status": "draft"
+  },
+  {
+    "name": "Ybets",
+    "slug": "ybets",
+    "logo": "🔵",
+    "rating": 6.0,
+    "bonus": "100% up to $200",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://ybets.com",
+    "warning": "Limited info available.",
+    "sources": [
+      "https://ybets.com"
+    ],
+    "display_order": 110,
+    "status": "draft"
+  },
+  {
+    "name": "Zizobet",
+    "slug": "zizobet",
+    "logo": "🟣",
+    "rating": 6.3,
+    "bonus": "100% up to $300",
+    "sports": [
+      "football",
+      "basketball",
+      "tennis",
+      "esports"
+    ],
+    "features": [
+      "In-Play Betting",
+      "Mobile App",
+      "Crypto Payments"
+    ],
+    "min_deposit": "$10",
+    "withdrawal_speed": "1-24h",
+    "license": "Curacao eGaming",
+    "url": "https://zizobet.com",
+    "warning": "",
+    "sources": [
+      "https://zizobet.com"
+    ],
+    "display_order": 111,
+    "status": "draft"
   }
 ]
